@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I'm Picharpa
 
-<!--
-**Piicharpa/Piicharpa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Engineering Graduate  
+💻 Frontend Developer | React • Next.js • TypeScript  
+🤖 Interested in AI & Intelligent Systems  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+I enjoy building responsive web applications and exploring AI-driven solutions.
+Experienced in full-stack development and collaborative projects, including international academic work.
+
+---
+
+## 🛠 Tech Stack
+**Frontend:** React, Next.js, TypeScript, Tailwind CSS  
+**Backend:** Express.js  
+**AI / Data:** Image Processing, Fuzzy Logic  
+**Tools:** Git, GitHub, Figma  
+
+---
+
+## 📌 Highlight Projects
+- 🔬 Water STRIP Project – ML + Image Processing system  
+- 🌐 Freelance Insurance Website – Business web solution  
+- 💊 Drug Inventory Management – Full-stack application  
+
+---
+
+## 📫 Contact
+Email: picharpa.e@gmail.com  
