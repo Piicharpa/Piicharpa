@@ -6,26 +6,27 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 I enjoy building responsive web applications and exploring AI-driven solutions.
 Experienced in full-stack development and collaborative projects, including international academic work.
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 **Frontend:** React, Next.js, TypeScript, Tailwind CSS  
 **Backend:** Express.js  
+**Database** MySql, PostgresSql
 **AI / Data:** Image Processing, Fuzzy Logic  
 **Tools:** Git, GitHub, Figma  
 
 ---
 
-## 📌 Highlight Projects
+## Highlight Projects
 - 🔬 Water STRIP Project – ML + Image Processing system  
 - 🌐 Freelance Insurance Website – Business web solution  
 - 💊 Drug Inventory Management – Full-stack application  
 
 ---
 
-## 📫 Contact
+## Contact
 Email: picharpa.e@gmail.com  
