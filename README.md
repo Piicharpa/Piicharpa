@@ -29,4 +29,4 @@ Experienced in full-stack development and collaborative projects, including inte
 ---
 
 ## Contact
-Email: picharpa.e@gmail.com  
+Email: Neuah2515@gmail.com  
